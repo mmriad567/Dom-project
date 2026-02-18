@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  font-size: 3rem;
+}
+
+button {
+  padding: 0.5rem 2rem;
+  font-size: 2rem;
+  cursor:pointer;
+}
